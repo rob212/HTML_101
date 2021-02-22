@@ -1,0 +1,16 @@
+Exercise 1 
+-----------
+Open the 'my_page.html' found in the 'exercises' folder in a plain text editor, such as Notepad. 
+By default if you double click an HTML file then it will open in your deafult Web Browser. In order to open it in your
+text editor you will need to right click the file and select 'Open with...' and choose Notepad. 
+
+
+The HTML already contained in the file is what you start with for every single web page you'll ever produce. 
+
+We can add a title to our web page in the <head> element. Web Browsers display this in the tab for your page. 
+
+Within the <head>...</head> tags in 'my_page.html' add a title element and save the file. 
+
+<title>My Page</title>
+
+Now open the 'my_page.html' file in your Web Browser. You should see your title displaying in the tab (you will see a blank page as we haven't put anything in the HTML body element yet)
