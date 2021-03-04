@@ -10,6 +10,14 @@ Some examples of HTML elements:
 <h1>My first heading</h1>
 <p>My first paragraph</p>
  ```
+
+| Start Tag        | Content           | End Tag  |
+|:-------------|:-------------:| -----:|
+| `<h1>`     | My first heading | `</h1>` |
+| `<p>`      | My first paragraph      |   `</p>` |
+|  `<hr>`          |    *none*                     | *none*        |
+
+
 >Some HTML elements have no content (like the `<hr>` element). 
 These elements are called empty elements and don't have an end tag, we'll cover these later.
  
