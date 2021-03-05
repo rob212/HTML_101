@@ -6,6 +6,8 @@ We are now well on our way to creating our own web page! Let’s remind ourselve
 
 Using what you have learned about headings so far in the previous exercise, add a heading that is smaller than `<h1>` containing ‘About me’. Position this between your horizontal rule and paragraph as seen in our design above.  
 
+
+
 ## Adding an image 
 
 Unlike the HTML elements we have encountered so far, an image is defined outside of our web page. We reference the images in our page using the `<img>` element. The `<img>` element doesn’t have a closing tag but instead uses and ‘attribute’ that points to the image file. 
